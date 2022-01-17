@@ -4,7 +4,7 @@ JavaScriptのsetTimeoutのみを使用してアニメーションを制作する
 
 # DEMO
 
-![Xmas_funny_Animation](https://user-images.githubusercontent.com/70145199/149763716-2bd66cb6-53c3-4154-a81b-76010ec37e7b.gif)
+<img src="https://user-images.githubusercontent.com/70145199/149763716-2bd66cb6-53c3-4154-a81b-76010ec37e7b.gif" width="100%">
 
 # 実行手順
 
