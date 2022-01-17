@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+.view {
+ height: 100%;
+ background-color: #0E314D;
+ background-image: url(images/sky.jpg);
+ background-size: 250px;
+}
+#start {
+  width: 200px;
+  z-index: 300;
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  cursor: pointer;
+}
+#stop {
+  width: 200px;
+  display: none;
+  z-index: 300;
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+  cursor: pointer;
+}
+#santa {
+  position: absolute;
+  right: -300px;
+  width: 300px;
+  height: 148px;
+}
+#present {
+  z-index: 150;
+  position: absolute;
+  top: 150px;
+  left: 49%;
+  transform: translate(-50%);
+  display: none;
+}
+#hanabi_utiage {
+  z-index: 100;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  bottom: 0;
+}
+#hanabi {
+  z-index: 250;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%);
+  display: none;
+}
+#yama {
+ z-index: 200;
+ position: absolute;
+ left: 50%;
+ transform: translate(-50%);
+ bottom: -12px;
+}
+#kemuri {
+  z-index: 30;
+  position: absolute;
+  left: 47%;
+  bottom: 20px;
+}
