@@ -3,7 +3,7 @@
 JavaScriptのsetTimeoutのみを使用してアニメーションを制作する課題で制作しました
 
 ### 実際に動作するページ
-https://kazumasa1.github.io/Xmas-funny-Animation/
+https://kzzzdev.github.io/Xmas-funny-Animation/
 
 # DEMO
 
